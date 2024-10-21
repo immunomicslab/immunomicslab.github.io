@@ -11,7 +11,7 @@
     "href": "workshop_tcrs.html",
     "title": "T-cell Receptors",
     "section": "",
-    "text": "08.00 - 08.45: Lecture: Introduction to T-cell Receptors and Repertoires\n08.45 - 09.00: Break\n09.00 - 10.00: Exercise Session I\n10.00 - 10.15: Break\n10.15 - 11.00: Lecture: Predictive Modelling of T-cell Receptors\n11.00 - 12.00: Exercises Session II"
+    "text": "08.00 - 08.45: Lecture: Introduction to T-cell Receptors and Repertoires\n08.45 - 09.00: Break\n09.00 - 10.00: Exercise: Session I\n10.00 - 10.15: Break\n10.15 - 11.00: Lecture: Predictive Modelling of T-cell Receptor Interaction\n11.00 - 12.00: Exercise: Session II"
   },
   {
     "objectID": "workshop_tcrs.html#background",
@@ -21,15 +21,15 @@
     "text": "Background\nThe workshop prerequisites are as follows\n\nBasic knowledge of immunology\nGood understanding of T-cell mediated immunity\n\nThe following materials are recommended workshop preparation\n\nVideo: Review of B cells, CD4+ T cells and CD8+ T cells\nVideo: Helper T cells\nVideo: Cytotoxic T cells\nVideo: Immunology: T cell receptor structure and function\nPaper: Machine learning identifies T cell receptor repertoire signatures associated with COVID-19 severity\nPaper: Can we predict T cell specificity with digital biology and machine learning?\n\nNote, the papers need not be read in complete detail, focus on conceptual understanding"
   },
   {
-    "objectID": "workshop_tcrs.html#exercise-session-i",
-    "href": "workshop_tcrs.html#exercise-session-i",
+    "objectID": "workshop_tcrs.html#sec-exercisesi",
+    "href": "workshop_tcrs.html#sec-exercisesi",
     "title": "T-cell Receptors",
     "section": "Exercise Session I",
     "text": "Exercise Session I\nHere we will work with…"
   },
   {
-    "objectID": "workshop_tcrs.html#exercise-session-ii",
-    "href": "workshop_tcrs.html#exercise-session-ii",
+    "objectID": "workshop_tcrs.html#sec-exercisesii",
+    "href": "workshop_tcrs.html#sec-exercisesii",
     "title": "T-cell Receptors",
     "section": "Exercise Session II",
     "text": "Exercise Session II\nHere we will work with…"
@@ -59,6 +59,34 @@
     "objectID": "resources/workshop_tcrs/lecture_I_introduction.html#slide-4",
     "href": "resources/workshop_tcrs/lecture_I_introduction.html#slide-4",
     "title": "Introduction to T-cell Receptors and Repertoires",
+    "section": "Slide 4",
+    "text": "Slide 4\n\nLast\n\n\n\n© 2024 Leon Eyrich Jessen"
+  },
+  {
+    "objectID": "resources/workshop_tcrs/lecture_II_modelling.html#slide-1",
+    "href": "resources/workshop_tcrs/lecture_II_modelling.html#slide-1",
+    "title": "Predictive Modelling of T-cell Receptor Interaction",
+    "section": "Slide 1",
+    "text": "Slide 1\n\nLorem"
+  },
+  {
+    "objectID": "resources/workshop_tcrs/lecture_II_modelling.html#slide-2",
+    "href": "resources/workshop_tcrs/lecture_II_modelling.html#slide-2",
+    "title": "Predictive Modelling of T-cell Receptor Interaction",
+    "section": "Slide 2",
+    "text": "Slide 2\n\nIpsum"
+  },
+  {
+    "objectID": "resources/workshop_tcrs/lecture_II_modelling.html#slide-3",
+    "href": "resources/workshop_tcrs/lecture_II_modelling.html#slide-3",
+    "title": "Predictive Modelling of T-cell Receptor Interaction",
+    "section": "Slide 3",
+    "text": "Slide 3\n\nDolor"
+  },
+  {
+    "objectID": "resources/workshop_tcrs/lecture_II_modelling.html#slide-4",
+    "href": "resources/workshop_tcrs/lecture_II_modelling.html#slide-4",
+    "title": "Predictive Modelling of T-cell Receptor Interaction",
     "section": "Slide 4",
     "text": "Slide 4\n\nLast\n\n\n\n© 2024 Leon Eyrich Jessen"
   },
