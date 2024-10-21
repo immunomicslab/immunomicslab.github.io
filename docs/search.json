@@ -11,21 +11,28 @@
     "href": "workshop_tcrs.html",
     "title": "T-cell Receptors",
     "section": "",
-    "text": "08.00 - 08.45: Lecture: Introduction to T-cell Receptor Repertoires\n08.45 - 09.00: Break\n09.00 - 10.00: Exercise Session I\n10.00 - 10.15: Break\n10.15 - 11.00: Lecture: Predictive Modelling of T-cell Receptors\n11.00 - 12.00: Exercises Session II"
+    "text": "08.00 - 08.45: Lecture: Introduction to T-cell Receptors and Repertoires\n08.45 - 09.00: Break\n09.00 - 10.00: Exercise Session I\n10.00 - 10.15: Break\n10.15 - 11.00: Lecture: Predictive Modelling of T-cell Receptors\n11.00 - 12.00: Exercises Session II"
+  },
+  {
+    "objectID": "workshop_tcrs.html#background",
+    "href": "workshop_tcrs.html#background",
+    "title": "T-cell Receptors",
+    "section": "Background",
+    "text": "Background\nThe workshop prerequisites are as follows\n\nBasic knowledge of immunology\nGood understanding of T-cell mediated immunity\n\nThe following materials are recommended workshop preparation\n\nReview of B cells, CD4+ T cells and CD8+ T cells\nHelper T cells\nCytotoxic T cells\nImmunology: T cell receptor structure and function\nCan we predict T cell specificity with digital biology and machine learning?"
   },
   {
     "objectID": "workshop_tcrs.html#exercise-session-i",
     "href": "workshop_tcrs.html#exercise-session-i",
     "title": "T-cell Receptors",
     "section": "Exercise Session I",
-    "text": "Exercise Session I"
+    "text": "Exercise Session I\nHere we will work with…"
   },
   {
     "objectID": "workshop_tcrs.html#exercise-session-ii",
     "href": "workshop_tcrs.html#exercise-session-ii",
     "title": "T-cell Receptors",
     "section": "Exercise Session II",
-    "text": "Exercise Session II"
+    "text": "Exercise Session II\nHere we will work with…"
   },
   {
     "objectID": "team.html",
