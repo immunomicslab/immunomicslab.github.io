@@ -18,7 +18,7 @@
     "href": "workshop_tcrs.html#background",
     "title": "T-cell Receptors",
     "section": "Background",
-    "text": "Background\nThe workshop prerequisites are as follows\n\nBasic knowledge of immunology\nGood understanding of T-cell mediated immunity\n\nThe following materials are recommended workshop preparation\n\nReview of B cells, CD4+ T cells and CD8+ T cells\nHelper T cells\nCytotoxic T cells\nImmunology: T cell receptor structure and function\nCan we predict T cell specificity with digital biology and machine learning?"
+    "text": "Background\nThe workshop prerequisites are as follows\n\nBasic knowledge of immunology\nGood understanding of T-cell mediated immunity\n\nThe following materials are recommended workshop preparation\n\nReview of B cells, CD4+ T cells and CD8+ T cells\nHelper T cells\nCytotoxic T cells\nImmunology: T cell receptor structure and function\nMachine learning identifies T cell receptor repertoire signatures associated with COVID-19 severity\nCan we predict T cell specificity with digital biology and machine learning?\n\nNote, the papers needn’t be read"
   },
   {
     "objectID": "workshop_tcrs.html#exercise-session-i",
