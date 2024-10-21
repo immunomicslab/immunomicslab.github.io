@@ -21,6 +21,13 @@
     "text": "Background\nThe workshop prerequisites are as follows\n\nBasic knowledge of immunology\nGood understanding of T-cell mediated immunity\n\nThe following materials are recommended workshop preparation\n\nVideo: Review of B cells, CD4+ T cells and CD8+ T cells\nVideo: Helper T cells\nVideo: Cytotoxic T cells\nVideo: Immunology: T cell receptor structure and function\nPaper: Machine learning identifies T cell receptor repertoire signatures associated with COVID-19 severity\nPaper: Can we predict T cell specificity with digital biology and machine learning?\n\nNote, the papers need not be read in complete detail, focus on conceptual understanding"
   },
   {
+    "objectID": "workshop_tcrs.html#learning-objectives",
+    "href": "workshop_tcrs.html#learning-objectives",
+    "title": "T-cell Receptors",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nA participant who has met the workshop objectives will be able to\n\nRecall key T-cell receptor nomenclature and terminology\nExplain the role of the T-cell receptor in T-cell-mediated immunity, describe key metrics for repertoire quantification, and summarize basic principles of interaction prediction methods\nApply pre-implemented computational tools for repertoire quantification and specificity prediction\nAnalyze T-cell receptor data to extract insights such as e.g. diversity and antigen specificity\nCritically evaluate the results and validity of an analysis involving T-cell receptor data\nDesign and implement a basic computational T-cell immunology project aimed at identifying and comparing key features such as diversity, antigen specificity, or clonality"
+  },
+  {
     "objectID": "workshop_tcrs.html#sec-exercisesi",
     "href": "workshop_tcrs.html#sec-exercisesi",
     "title": "T-cell Receptors",
