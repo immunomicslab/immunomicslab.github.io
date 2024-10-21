@@ -1,8 +1,50 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "MSc.: “Towards Precision Immuno-profiles using Graph Neural Networks for Modelling single cell RNAseq-data” by Oscar Lauritz Møberg (2024)\nMSc.: “Applications of Probabilistic Modelling for Profiling Human T-cell Repertoires in Cancer” by Huiyu Xie\nBSc.: “Comparative Analysis of Methods for Clustering of T-cell Receptors” by Emilie Sophie Ragnhild Sonne\nProject Course: “Applications of profile Hidden Markov Models for Automated Data Driven QC of T-cell Receptor Sequence Data” by Huiyu Xie\nProject Course: “Applied Biostatistics with Tidy Modelling” by William Hagedorn-Rasmussen\nProject Course: “Multi-modal analysis of isoforms in cancer” by Ana Pastor Mediavilla\nMSc.: “Sub-gene level re-analysis of proteomics data” by Bernat Godayol Farran\nMSc.: “Integration of longitudinal single-cell RNAseq datasets into a comprehensive reference map to allow automatic annotation of cells generated in stem cell to beta cell protocols” by Mathias Nørgaard Stokholm in Collaboration with Novo Nordisk A/S\nMSc.: “Sub-gene level re-analysis of proteomics data” by Mikkel Swartz\nProject Course: “Characterisation of T-cell Receptors of Malignant T-cells in Cutaneous T-cell Lymphoma” by Signe Marcussen\nProject Course: “Connecting non-data Literate Stakeholders to Data using R and Shiny: A case study using Cardio Vascular Disease” by Cathrine Lind"
+  },
+  {
+    "objectID": "projects.html#section-1",
+    "href": "projects.html#section-1",
+    "title": "Projects",
+    "section": "2023",
+    "text": "2023\nMSc.: “Use of L1000 Expression Data to Elucidate Biological Mechanisms” by Casper Rasmussen in collaboration with Novo Nordisk (2023)\nMSc.: “Investigating plasma metabolomic signatures of declining renal function (involving genetic risk indicators) in individuals with and without type 2 diabetes (T2D): An AI based precision medicine approach” by Aldis Helga Björgvinsdóttir in collaboration with Steno Diabetes Center Copenhagen (2023)\nMSc.: “Single-cell deconvolution for spatial-transcriptomics data to extrapolate cell-types on Visium Spatial Gene Expression 10x Genomics technology images” by Alban Laus Obel Slabowska in collaboration with Novo Nordisk (2023)\nBSc.: “Exploring CD8+ T-cell Specificities using Single Cell Immune Profiling with an Outlook to Reproducible Bio Data Science” by William Hagedorn-Rasmussen (2023)\nProject course: “Comparative Analysis of Single Cell- and Bulk RNAseq Sequencing Data” by Angeliki Kallia Spentza (2023)\nMSc.: “Machine Learning-Driven Diagnostics for Psoriatic Arthritis Based on Single-Cell Transcriptomics Data” by Melanie Randahl Nielsen (2023)\nProject course: “Using Deep Generative Neural Networks to Model the T-cell Receptor Repertoire” by Sarah Rosenberg Asmussen in collaboration with Evaxion Biotech (2023)\nProject course: “Mapping Chemicals to Adverse Outcome Pathways” by Mathias Grøn Therp in collaboration with NNF Center for Protein Research, UCPH Health (2023)\nProject course: “Decoding Metabolic Disease using Single-Cell Technologies, Genomics and Data Science” by Daniel Caleb Romero Yianni in collaboration with NNF Center for Basic Metabolic Research, UCPH Health (2023)"
+  },
+  {
+    "objectID": "projects.html#section-2",
+    "href": "projects.html#section-2",
+    "title": "Projects",
+    "section": "2022",
+    "text": "2022\nBSc.: “Application of Machine Learning for mapping TCR::pMHC Specificities using High Throughput Single Cell Immune Profiling Data” by Lucille Augusta Green and Signe Marcussen (2022)\nBSc.: “Exploration of Applications of Graph Theory for Exploring Molecular Level Immunity” by Jacob Korslund Schlander (2022)\nProject course: “Design and Implementation of Automated Immuno-Sequence Redundancy Handling to Improve Input to Machine Learning Models” by Dominik Rafacz (2022)\nProject course: “Applications of Graph Theory in Immuno Research” by Esben Vestergaard Øyan (2022)\nProject course: “Antibody sequence analysis” by Christian Holm Johansen in collaboration with Novo Nordisk (2022)\nProject course: “Scientific Writing: Paper on the CrediSite Method” by Frederik Steensgaard Gade (2022)"
+  },
+  {
+    "objectID": "projects.html#section-3",
+    "href": "projects.html#section-3",
+    "title": "Projects",
+    "section": "2021",
+    "text": "2021\nMSc.: “Post-GWAS Analysis on Atrial Fibrillation Patients” by Laia Meseguer Monfort (2021)\nMSc.: “Development of a QSAR model related to endocrine disruption” by Cecilie Agerlin Møller (2021)\nBSc.: “Exploration of TCR::pMHC Specificities using High Throughput Single Cell Immune Profiling Data” by Andreea Teodora Bejenariu (2021)\nBSc.: “Bayesian Inference of Amino Acid Level Geno-/Phenotype Correlation in Protein Multiple Sequence Alignments” by Frederik Steensgaard Gade (2021)\nProject course: “Post-GWAS Analysis of IL6 Levels” by Sule Altintas in Collaboration with Steno Diabetes Center Copenhagen (2021)"
+  },
+  {
+    "objectID": "projects.html#section-4",
+    "href": "projects.html#section-4",
+    "title": "Projects",
+    "section": "2020",
+    "text": "2020\nMSc.: “Designing a clinical bioinformatics framework for molecular characterization of glioblastoma multiforme” by Cecilia Bang Jensen (2020)\nProject course: “Bioinformatics of amino acid level geno-/phenotype correlation” by Frederik Steensgaard Gade (2020)\nProject course: “Exploring Receptor Sequence Diversity of CD4+/CD8+ T-cells” by Maarten Marijn van Elst (2020)\nProject course: “Scientific Article Writing: Paper on the NetMHCcons method” by Clara Drachmann (2020)"
+  },
+  {
+    "objectID": "projects.html#section-5",
+    "href": "projects.html#section-5",
+    "title": "Projects",
+    "section": "2019",
+    "text": "2019\nBSc.: “The Development of a Consensus Method for Improved Prediction of MHC-I Peptide Binding and Antigen Presentation” by Clara Drachmann (2019)\nBSc.: “Dimensionality Reduction Techniques in Malaria Immunology and Pathogenesis Research” by Søren Steenstrup Zeeberg in collaboration with Centre for Medical Parasitology, UCPH Health (2019)\nBSc.: “Integration of RNASeq Expression Data for Improved Prediction of MHC Class I Antigen Presentation” Sebastian Nymann Deleuran (2019)\nBSc.: “Large-scale in silico Screening of MHC class II Mediated Immunogenicity of Aero Allergens” by Jakob Hartvig Stiesmark (2019)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "immunomicslab.github.io",
+    "title": "Immunomicslab",
     "section": "",
     "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
