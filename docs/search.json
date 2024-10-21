@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Alumni\n\nMelanie Randahl Nielsen Research Assistant: “Integrative Single-Cell Analysis for Exploring Autoimmune Disease Mechanisms” (09/2023 → 09/2024)\nClara Drachmann PhD student: “Integrative Single-Cell Analysis for Exploring Autoimmune Disease Mechanisms” (03/2022 → 07/2023)\nAlessandro Montemurro PhD student: “Improved Immunoinformatic Methods for Rationale T Cell Epitope Discovery” (10/2019 → 01/2023)\nHelle Rus Povlsen PhD student: “Development of Immunoinformatics prediction methods for improved rational identification of T cell epitopes” (04/2019 → 12/2022)\nAnna Lisa Schaap-Johansen PhD student: “Deep Learning methods for Immunotherapy” (12/2018 → 01/2023)"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
@@ -46,7 +53,7 @@
     "href": "index.html",
     "title": "Immunomicslab",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "The Computational Autoimmunity Group headed by Associate Professor Leon Eyrich Jessen is located at the Technical University of Denmark, just north of Copenhagen, Denmark. We are interested in understanding disruptions in central tolerance and the mechanisms that allow our immune system to differentiate between self and non-self, aiming to uncover the immuno-cellular processes associated with autoimmune diseases and in particular the role that T-cells play. To do so, we employ single cell technology and in that context, we have a particular focus on developing, applying and serving machine learning based bioinformatics tools."
   },
   {
     "objectID": "about.html",
