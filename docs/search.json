@@ -11,7 +11,14 @@
     "href": "workshop_tcrs.html",
     "title": "T-cell Receptors",
     "section": "",
-    "text": "08.00 - 08.45: Lecture: Introduction to T-cell Receptors and Repertoires\n08.45 - 09.00: Break\n09.00 - 10.00: Exercise: Session I\n10.00 - 10.15: Break\n10.15 - 11.00: Lecture: Predictive Modelling of T-cell Receptor Interaction\n11.00 - 12.00: Exercise: Session II"
+    "text": "This workshop is under development!"
+  },
+  {
+    "objectID": "workshop_tcrs.html#schedule",
+    "href": "workshop_tcrs.html#schedule",
+    "title": "T-cell Receptors",
+    "section": "Schedule",
+    "text": "Schedule\n\n08.00 - 08.45: Lecture: Introduction to T-cell Receptors and Repertoires\n08.45 - 09.00: Break\n09.00 - 10.00: Exercise: Session I\n10.00 - 10.15: Break\n10.15 - 11.00: Lecture: Predictive Modelling of T-cell Receptor Interaction\n11.00 - 12.00: Exercise: Session II"
   },
   {
     "objectID": "workshop_tcrs.html#background",
@@ -42,11 +49,25 @@
     "text": "Exercise Session II\nHere we will work with…"
   },
   {
+    "objectID": "resources/workshop_tcrs/lecture_I_introduction.html#role-of-t-cell-receptor-in-immune-activation",
+    "href": "resources/workshop_tcrs/lecture_I_introduction.html#role-of-t-cell-receptor-in-immune-activation",
+    "title": "Introduction to T-cell Receptors and Repertoires",
+    "section": "Role of T-cell Receptor in Immune Activation",
+    "text": "Role of T-cell Receptor in Immune Activation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNeefjes, J., Jongsma, M., Paul, P. et al. Towards a systems understanding of MHC class I and MHC class II antigen presentation. Nat Rev Immunol 11, 823–836 (2011). https://doi.org/10.1038/nri3084"
+  },
+  {
+    "objectID": "resources/workshop_tcrs/lecture_I_introduction.html#generation-of-tcr-diversity-by-somatic-recombination-of-gene-segments",
+    "href": "resources/workshop_tcrs/lecture_I_introduction.html#generation-of-tcr-diversity-by-somatic-recombination-of-gene-segments",
+    "title": "Introduction to T-cell Receptors and Repertoires",
+    "section": "Generation of TCR Diversity by Somatic Recombination of Gene Segments",
+    "text": "Generation of TCR Diversity by Somatic Recombination of Gene Segments\nGene segments: 43 Vα, 58 Jα and 42 Vβ, 2 Dβ, 12 Jβ\n\nTurner, S., Doherty, P., McCluskey, J. et al. Structural determinants of T-cell receptor bias in immunity. Nat Rev Immunol 6, 883–894 (2006). https://doi.org/10.1038/nri1977"
+  },
+  {
     "objectID": "resources/workshop_tcrs/lecture_I_introduction.html#slide-1",
     "href": "resources/workshop_tcrs/lecture_I_introduction.html#slide-1",
     "title": "Introduction to T-cell Receptors and Repertoires",
     "section": "Slide 1",
-    "text": "Slide 1\n\nLorem"
+    "text": "Slide 1\n\n\nlsgsd\n\ndfsg"
   },
   {
     "objectID": "resources/workshop_tcrs/lecture_I_introduction.html#slide-2",
@@ -102,49 +123,14 @@
     "href": "team.html",
     "title": "Team",
     "section": "",
-    "text": "Alumni\n\nMelanie Randahl Nielsen Research Assistant: “Integrative Single-Cell Analysis for Exploring Autoimmune Disease Mechanisms” (09/2023 → 09/2024)\nClara Drachmann PhD student: “Integrative Single-Cell Analysis for Exploring Autoimmune Disease Mechanisms” (03/2022 → 07/2023)\nAlessandro Montemurro PhD student: “Improved Immunoinformatic Methods for Rationale T Cell Epitope Discovery” (10/2019 → 01/2023)\nHelle Rus Povlsen PhD student: “Development of Immunoinformatics prediction methods for improved rational identification of T cell epitopes” (04/2019 → 12/2022)\nAnna Lisa Schaap-Johansen PhD student: “Deep Learning methods for Immunotherapy” (12/2018 → 01/2023)"
+    "text": "Leon Eyrich Jessen Head of Lab, Associate Professor\nEmilie Sophie Ragnhild Sonne, Bachelor Thesis student: “Comparative Analysis of Methods for Clustering of T-cell Receptors” (September 2, 2024 → December 20, 2024)\nHuiyu Xie, Master Thesis student: “Applications of Probabilistic Modelling for Profiling Human T-cell Repertoires in Cancer” (August 26, 2024 → January 26, 2025)\nOscar Lauritz Møberg, Master Thesis student: “Towards Precision Immuno-profiles using Graph Neural Networks for Modelling single cell RNAseq-data” (August 26, 2024 → January 26, 2025)"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "MSc.: “Towards Precision Immuno-profiles using Graph Neural Networks for Modelling single cell RNAseq-data” by Oscar Lauritz Møberg (2024)\nMSc.: “Applications of Probabilistic Modelling for Profiling Human T-cell Repertoires in Cancer” by Huiyu Xie\nBSc.: “Comparative Analysis of Methods for Clustering of T-cell Receptors” by Emilie Sophie Ragnhild Sonne\nProject Course: “Applications of profile Hidden Markov Models for Automated Data Driven QC of T-cell Receptor Sequence Data” by Huiyu Xie\nProject Course: “Applied Biostatistics with Tidy Modelling” by William Hagedorn-Rasmussen\nProject Course: “Multi-modal analysis of isoforms in cancer” by Ana Pastor Mediavilla\nMSc.: “Sub-gene level re-analysis of proteomics data” by Bernat Godayol Farran\nMSc.: “Integration of longitudinal single-cell RNAseq datasets into a comprehensive reference map to allow automatic annotation of cells generated in stem cell to beta cell protocols” by Mathias Nørgaard Stokholm in Collaboration with Novo Nordisk A/S\nMSc.: “Sub-gene level re-analysis of proteomics data” by Mikkel Swartz\nProject Course: “Characterisation of T-cell Receptors of Malignant T-cells in Cutaneous T-cell Lymphoma” by Signe Marcussen\nProject Course: “Connecting non-data Literate Stakeholders to Data using R and Shiny: A case study using Cardio Vascular Disease” by Cathrine Lind"
-  },
-  {
-    "objectID": "projects.html#section-1",
-    "href": "projects.html#section-1",
-    "title": "Projects",
-    "section": "2023",
-    "text": "2023\nMSc.: “Use of L1000 Expression Data to Elucidate Biological Mechanisms” by Casper Rasmussen in collaboration with Novo Nordisk (2023)\nMSc.: “Investigating plasma metabolomic signatures of declining renal function (involving genetic risk indicators) in individuals with and without type 2 diabetes (T2D): An AI based precision medicine approach” by Aldis Helga Björgvinsdóttir in collaboration with Steno Diabetes Center Copenhagen (2023)\nMSc.: “Single-cell deconvolution for spatial-transcriptomics data to extrapolate cell-types on Visium Spatial Gene Expression 10x Genomics technology images” by Alban Laus Obel Slabowska in collaboration with Novo Nordisk (2023)\nBSc.: “Exploring CD8+ T-cell Specificities using Single Cell Immune Profiling with an Outlook to Reproducible Bio Data Science” by William Hagedorn-Rasmussen (2023)\nProject course: “Comparative Analysis of Single Cell- and Bulk RNAseq Sequencing Data” by Angeliki Kallia Spentza (2023)\nMSc.: “Machine Learning-Driven Diagnostics for Psoriatic Arthritis Based on Single-Cell Transcriptomics Data” by Melanie Randahl Nielsen (2023)\nProject course: “Using Deep Generative Neural Networks to Model the T-cell Receptor Repertoire” by Sarah Rosenberg Asmussen in collaboration with Evaxion Biotech (2023)\nProject course: “Mapping Chemicals to Adverse Outcome Pathways” by Mathias Grøn Therp in collaboration with NNF Center for Protein Research, UCPH Health (2023)\nProject course: “Decoding Metabolic Disease using Single-Cell Technologies, Genomics and Data Science” by Daniel Caleb Romero Yianni in collaboration with NNF Center for Basic Metabolic Research, UCPH Health (2023)"
-  },
-  {
-    "objectID": "projects.html#section-2",
-    "href": "projects.html#section-2",
-    "title": "Projects",
-    "section": "2022",
-    "text": "2022\nBSc.: “Application of Machine Learning for mapping TCR::pMHC Specificities using High Throughput Single Cell Immune Profiling Data” by Lucille Augusta Green and Signe Marcussen (2022)\nBSc.: “Exploration of Applications of Graph Theory for Exploring Molecular Level Immunity” by Jacob Korslund Schlander (2022)\nProject course: “Design and Implementation of Automated Immuno-Sequence Redundancy Handling to Improve Input to Machine Learning Models” by Dominik Rafacz (2022)\nProject course: “Applications of Graph Theory in Immuno Research” by Esben Vestergaard Øyan (2022)\nProject course: “Antibody sequence analysis” by Christian Holm Johansen in collaboration with Novo Nordisk (2022)\nProject course: “Scientific Writing: Paper on the CrediSite Method” by Frederik Steensgaard Gade (2022)"
-  },
-  {
-    "objectID": "projects.html#section-3",
-    "href": "projects.html#section-3",
-    "title": "Projects",
-    "section": "2021",
-    "text": "2021\nMSc.: “Post-GWAS Analysis on Atrial Fibrillation Patients” by Laia Meseguer Monfort (2021)\nMSc.: “Development of a QSAR model related to endocrine disruption” by Cecilie Agerlin Møller (2021)\nBSc.: “Exploration of TCR::pMHC Specificities using High Throughput Single Cell Immune Profiling Data” by Andreea Teodora Bejenariu (2021)\nBSc.: “Bayesian Inference of Amino Acid Level Geno-/Phenotype Correlation in Protein Multiple Sequence Alignments” by Frederik Steensgaard Gade (2021)\nProject course: “Post-GWAS Analysis of IL6 Levels” by Sule Altintas in Collaboration with Steno Diabetes Center Copenhagen (2021)"
-  },
-  {
-    "objectID": "projects.html#section-4",
-    "href": "projects.html#section-4",
-    "title": "Projects",
-    "section": "2020",
-    "text": "2020\nMSc.: “Designing a clinical bioinformatics framework for molecular characterization of glioblastoma multiforme” by Cecilia Bang Jensen (2020)\nProject course: “Bioinformatics of amino acid level geno-/phenotype correlation” by Frederik Steensgaard Gade (2020)\nProject course: “Exploring Receptor Sequence Diversity of CD4+/CD8+ T-cells” by Maarten Marijn van Elst (2020)\nProject course: “Scientific Article Writing: Paper on the NetMHCcons method” by Clara Drachmann (2020)"
-  },
-  {
-    "objectID": "projects.html#section-5",
-    "href": "projects.html#section-5",
-    "title": "Projects",
-    "section": "2019",
-    "text": "2019\nBSc.: “The Development of a Consensus Method for Improved Prediction of MHC-I Peptide Binding and Antigen Presentation” by Clara Drachmann (2019)\nBSc.: “Dimensionality Reduction Techniques in Malaria Immunology and Pathogenesis Research” by Søren Steenstrup Zeeberg in collaboration with Centre for Medical Parasitology, UCPH Health (2019)\nBSc.: “Integration of RNASeq Expression Data for Improved Prediction of MHC Class I Antigen Presentation” Sebastian Nymann Deleuran (2019)\nBSc.: “Large-scale in silico Screening of MHC class II Mediated Immunogenicity of Aero Allergens” by Jakob Hartvig Stiesmark (2019)"
+    "objectID": "team.html#alumni",
+    "href": "team.html#alumni",
+    "title": "Team",
+    "section": "Alumni",
+    "text": "Alumni\n\nFunded Projects\n\nMelanie Randahl Nielsen Research Assistant: “Integrative Single-Cell Analysis for Exploring Autoimmune Disease Mechanisms” (09/2023 → 09/2024)\nClara Drachmann PhD student: “Integrative Single-Cell Analysis for Exploring Autoimmune Disease Mechanisms” (03/2022 → 07/2023)\nAlessandro Montemurro PhD student: “Improved Immunoinformatic Methods for Rationale T Cell Epitope Discovery” (10/2019 → 01/2023)\nHelle Rus Povlsen PhD student: “Development of Immunoinformatics prediction methods for improved rational identification of T cell epitopes” (04/2019 → 12/2022)\nAnna Lisa Schaap-Johansen PhD student: “Deep Learning methods for Immunotherapy” (12/2018 → 01/2023)\n\n\n\nStudents Projects\n\nHuiyu Xie, Special Course student: “Applications of profile Hidden Markov Models for Automated Data Driven QC of T-cell Receptor Sequence Data” (June 6, 2024 → August 23, 2024)\nJonathan Dragestad Møller, Special Course student: “Multi-modal analysis of isoforms in cancer” (February 1, 2024 → June 14, 2024)\nWilliam Hagedorn-Rasmussen, Special Course student: “Applied Biostatistics with Tidy Modelling” (January 29, 2024 → May 31, 2024)\nAna Pastor Mediavilla, Special Course student: “Multi-modal analysis of isoforms in cancer” (January 29, 2024 → May 19, 2024)\nCathrine Lind, Special Course student: “Connecting non-data Literate Stakeholders to Data using R and Shiny: A case study using Cardio Vascular Disease” (September 18, 2023 → November 6, 2023)\nBernat Godayol Farran, Master Thesis student: “Sub-gene level re-analysis of proteomics data” (August 28, 2023 → February 28, 2024)\nMikkel Swartz, Master Thesis student: “Sub-gene level re-analysis of proteomics data” (August 28, 2023 → January 28, 2024)\nSigne Marcussen, Special Course student: “Characterisation of T-cell Receptors of Malignant T-cells in Cutaneous T-cell Lymphoma” (August 28, 2023 → December 14, 2023)\nMathias Nørgaard Stokholm, Master Thesis student: “Integration of longitudinal single-cell RNAseq datasets into a comprehensive reference map to allow automatic annotation of cells generated in stem cell to beta cell protocols.” (August 7, 2023 → February 7, 2024)\nAngeliki Kallia Spentza, Special Course student: “Comparative Analysis of Single Cell- and Bulk RNAseq Sequencing Data” (February 24, 2023 → June 22, 2023)\nSarah Rosenberg Asmussen, Special Course student: “Using Deep Generative Neural Networks to Model the T-cell Receptor Repertoire” (January 30, 2023 → May 26, 2023)\nMathias Grøn Therp, Special Course student: “Mapping Chemicals to Adverse Outcome Pathways” (January 30, 2023 → May 9, 2023)\nAldis Helga Björgvinsdóttir, Master Thesis student: “Exploratory Study of Metabolomics and Kidney Function in the UK Biobank Population: Insights from Type 2 Diabetes Stratification” (January 23, 2023 → June 23, 2023)\nMelanie Randahl Nielsen, Master Thesis student: “Machine Learning-Driven Diagnostics for Psoriatic Arthritis Based on Single-Cell Transcriptomics Data” (January 2, 2023 → June 2, 2023)\nCasper Rasmussen, Master Thesis student: “Use of L1000 Expression Data to Elucidate Biological Mechanisms” (January 2, 2023 → January 17, 2024)\nDaniel Caleb Romero Yianni, Special Course student: “Decoding Metabolic Disease using Single-Cell Technologies, Genomics and Data Science” (September 15, 2022 → February 15, 2023)\nWilliam Hagedorn-Rasmussen, Bachelor Thesis student: “Exploring CD8+ T-cell Specificities using Single Cell Immune Profiling with an Outlook to Reproducible Bio Data Science” (August 29, 2022 → January 13, 2023)\nAlban Laus Obel Slabowska, Master Thesis student: “Single-cell deconvolution for spatial-transcriptomics data to extrapollate cell-types on Visium Spatial Gene Expression 10x Genomics technology images” (August 22, 2022 → January 22, 2023)\nDominik Rafacz, Special Course student: “Design and Implementation of Automated Immuno-Sequence Redundancy Handling to Improve Input to Machine Learning Models” (January 31, 2022 → May 9, 2022)\nEsben Vestergaard Øyan, Special Course student: “Applications of Graph Theory in Immuno Research” (January 3, 2022 → January 21, 2022)\nChristian Holm Johansen, Special Course student: “Antibody sequence analysis” (August 30, 2021 → December 31, 2021)\nJacob Korslund Schlander, Bachelor Thesis student: “Exploration of Applications of Graph Theory for Exploring Molecular Level Immunity” (August 30, 2021 → December 3, 2021)\nSigne Marcussen, Bachelor Thesis student: “Application of Machine Learning for mapping TCR::pMHC Specificities using High Throughput Single Cell Immune Profiling Data” (August 30, 2021 → December 3, 2021)\nLucille Augusta Green, Bachelor Thesis student: “Application of Machine Learning for mapping TCR::pMHC Specificities using High Throughput Single Cell Immune Profiling Data” (August 30, 2021 → December 3, 2021)\nFrederik Steensgaard Gade, Special Course student: “Scientific Writing: Paper on the CrediSite Method” (August 30, 2021 → December 3, 2021)\nAndreea Teodora Bejenariu, Bachelor Thesis student: “Exploration of TCR::pMHC Specificities using High Throughput Single Cell Immune Profiling Data” (February 1, 2021 → July 15, 2021)\nFrederik Steensgaard Gade, Bachelor Thesis student: “Bayesian Inference of Amino Acid Level Geno-/Phenotype Correlation in Protein Multiple Sequence Alignments” (February 1, 2021 → June 24, 2021)\nSule Altintas, Special Course student: “Post-GWAS Analysis of IL6 Levels” (January 4, 2021 → January 24, 2021)\nLaia Meseguer Monfort, Master Thesis student: “Post-GWAS Analysis on Atrial Fibrillation Patients” (August 24, 2020 → January 24, 2021)\nCecilie Agerlin Møller, Master Thesis student: “Development of a QSAR model related to endocrine disruption” (August 24, 2020 → January 24, 2021)\nFrederik Steensgaard Gade, Special Course student: “Bioinformatics of amino acid level geno-/phenotype correlation” (August 3, 2020 → August 21, 2020)\nMaarten Marijn van Elst, Special Course student: “Exploring Receptor Sequence Diversity of CD4+/CD8+ T-cells” (February 3, 2020 → May 12, 2020)\nClara Drachmann, Special Course student: “Scientific Article Writing: Paper on the NetMHCcons method” (December 6, 2019 → December 6, 2019)\nCecilia Bang Jensen, Master Thesis student: “Designing a clinical bioinformatics framework for molecular characterization of glioblastoma multiforme” (November 4, 2019 → April 4, 2020)\nClara Drachmann, Bachelor Thesis student: “The Development of a Consensus Method for Improved Prediction of MHC-I Peptide Binding and Antigen Presentation” (February 4, 2019 → June 14, 2019)\nSøren Steenstrup Zeeberg, Bachelor Thesis student: “Dimensionality Reduction Techniques in Malaria Immunology and Pathogenesis Research” (February 4, 2019 → June 14, 2019)\nSebastian Nymann Deleuran, Bachelor Thesis student: “Integration of RNASeq Expression Data for Improved Prediction of MHC Class I Antigen Presentation” (February 4, 2019 → June 3, 2019)\nJakob Hartvig Stiesmark, Bachelor Thesis student: “Large-scale in silico Screening of MHC class II Mediated Immunogenicity of Aero Allergens” (February 4, 2019 → June 3, 2019)"
   },
   {
     "objectID": "index.html",
