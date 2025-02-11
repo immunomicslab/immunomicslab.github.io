@@ -1,0 +1,19 @@
+---
+title: "Immunomicslab"
+---
+
+![](images/leon_eyrich_jessen.png)
+
+_The Computational Autoimmunity Group headed by Associate Professor Leon Eyrich Jessen is located at the Technical University of Denmark, just north of Copenhagen, Denmark_
+
+The work we do is centered around computational immunology, with a specific focus on autoimmune disease. We develop and apply bioinformatics and machine learning methods to investigate the interplay between immuno-cellular composition and autoimmune disease phenotypes primarily using single-cell immune profiling approaches. Our research ranges from developing precision immunoprofiles to integrating multi-modal data for applications in disease stratification, diagnostics, and mechanistic insights into T-cell repertoire diversity and composition.
+
+Our research is driven by three core themes:
+
+1. **Immunocellular profiling in Autoimmune Disease:** We are particularly interested in understanding how T-cell receptor (TCR) specificity and repertoires interact with autoimmune disease phenotypes aiming to address fundamental questions of immune recognition and activation in breaking central tolerance.
+
+2. **Single-Cell Analysis in Immunology:** To investigate 1., a significant portion of our work leverages single-cell RNA sequencing (scRNA-seq) data to conduct in-depth characterization of immune cell types and composition profiling at the single-cell level.
+
+3. **Machine Learning and Integrative Modeling:** To extract insights from 1. using 2., we are developing and applying advanced machine learning methodology, including deep learning, generative neural networks, and probabilistic modeling. 
+
+These focal themes underscore our commitment to advancing computational immunology by employing data-driven, machine-learning approaches to decipher immune function and disease-specific immune responses. Our collaborations with other institutions reflect a clear orientation toward translational applications in autoimmune disease.

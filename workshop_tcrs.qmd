@@ -1,0 +1,51 @@
+---
+title: "T-cell Receptors"
+---
+
+_This workshop is under development!_
+
+## Schedule
+
+- 08.00 - 08.45: Lecture: [Introduction to T-cell Receptors and Repertoires](https://raw.githack.com/immunomicslab/immunomicslab.github.io/main/docs/resources/workshop_tcrs/lecture_I_introduction.html)
+- 08.45 - 09.00: Break
+- 09.00 - 10.00: Exercise: [Session I](#sec-exercisesi)
+- 10.00 - 10.15: Break
+- 10.15 - 11.00: Lecture: [Predictive Modelling of T-cell Receptor Interaction](https://raw.githack.com/immunomicslab/immunomicslab.github.io/main/docs/resources/workshop_tcrs/lecture_II_modelling.html)
+- 11.00 - 12.00: Exercise: [Session II](#sec-exercisesii)
+
+## Background
+
+**_The workshop prerequisites are as follows_**
+
+- Basic knowledge of immunology
+- Good understanding of T-cell mediated immunity
+
+**_The following materials are recommended workshop preparation_**
+
+- Video: [Review of B cells, CD4+ T cells and CD8+ T cells](https://www.youtube.com/watch?v=xaz5ftvZCyI)
+- Video: [Helper T cells](https://www.youtube.com/watch?v=uwMYpTYsNZM)
+- Video: [Cytotoxic T cells](https://www.youtube.com/watch?v=oqI4skjr6lQ)
+- Video: [Immunology: T cell receptor structure and function](https://www.youtube.com/watch?v=uq9p26JAnCs)
+- Paper: [Machine learning identifies T cell receptor repertoire signatures associated with COVID-19 severity](https://www.nature.com/articles/s42003-023-04447-4)
+- Paper: [Can we predict T cell specificity with digital biology and machine learning?](https://www.nature.com/articles/s41577-023-00835-3)
+
+_Note, the papers need not be read in complete detail, focus on conceptual understanding_
+
+## Learning Objectives
+
+_A participant who has met the workshop objectives will be able to_
+
+1. Recall key T-cell receptor nomenclature and terminology
+1. Explain the role of the T-cell receptor in T-cell-mediated immunity, describe key metrics for repertoire quantification, and summarize basic principles of interaction prediction methods
+1. Apply pre-implemented computational tools for repertoire quantification and specificity prediction
+1. Analyze T-cell receptor data to extract insights such as e.g. diversity and antigen specificity
+1. Critically evaluate the results and validity of an analysis involving T-cell receptor data
+1. Design and implement a basic computational T-cell immunology project aimed at identifying and comparing key features such as diversity, antigen specificity, or clonality
+
+## Exercise Session I {#sec-exercisesi}
+
+_Here we will work with..._
+
+## Exercise Session II {#sec-exercisesii}
+
+_Here we will work with..._

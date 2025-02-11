@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Immunomicslab"
+  twitter-card: true
+  page-footer: "&copy; 2024 Leon Eyrich Jessen"
+  navbar:
+    alignment: center
+    background: light
+    pinned: true
+    left:
+      - team.qmd
+      - research.qmd
+      - teaching.qmd
+    right:
+      - text: "Workshops"
+        menu:
+          - workshop_tcrs.qmd
+      - icon: envelope
+        href: mailto:ljess@dtu.dk
+        aria-label: ImmunomicsLab Mail
+      - icon: twitter
+        href: https://twitter.com/immunomicslab
+        aria-label: ImmunomicsLab Twitter
+      - icon: github
+        href: https://github.com/immunomicslab
+        aria-label: ImmunomicsLab GitHub
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+

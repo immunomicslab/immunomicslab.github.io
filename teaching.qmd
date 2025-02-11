@@ -1,0 +1,5 @@
+---
+title: "Teaching"
+---
+
+We are responsible for teaching [R for Bio Data Science](https://kurser.dtu.dk/course/22160) at [Department of Health Technology](https://www.healthtech.dtu.dk). For more information, please see the [official course site](https://r4bds.github.io).

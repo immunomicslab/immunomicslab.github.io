@@ -1,0 +1,99 @@
+---
+title: "Introduction to T-cell Receptors and Repertoires"
+author: "Leon Eyrich Jessen"
+format:
+  revealjs:
+    embed-resources: true
+    theme: moon
+    slide-number: c/t
+    width: 1600
+    height: 900
+    mainfont: avenir
+    footer: "&copy; 2024 Leon Eyrich Jessen"
+---
+
+
+
+<!--# ---------------------------------------------------------------------- -->
+<!--# SLIDE ---------------------------------------------------------------- -->
+<!--# ---------------------------------------------------------------------- -->
+## Role of T-cell Receptor in Immune Activation
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/mhc_class_i_pathway.png){fig-align="center" width="70%"}
+:::
+
+::: {.column width="50%"}
+
+![](images/mhc_class_ii_pathway.png){fig-align="center" width="80%"}
+:::
+
+::::
+
+<span style="font-size: 16px; font-style: italic; text-align: right; display: block;">Neefjes, J., Jongsma, M., Paul, P. et al. Towards a systems understanding of MHC class I and MHC class II antigen presentation. Nat Rev Immunol 11, 823–836 (2011). https://doi.org/10.1038/nri3084</span>
+
+
+
+<!--# ---------------------------------------------------------------------- -->
+<!--# SLIDE ---------------------------------------------------------------- -->
+<!--# ---------------------------------------------------------------------- -->
+## Generation of TCR Diversity by Somatic Recombination of Gene Segments
+
+Gene segments: 43 Vα, 58 Jα and 42 Vβ, 2 Dβ, 12 Jβ
+
+![](images/tcr_gene_rearrangement.png){fig-align="center" width="70%"}
+
+<span style="font-size: 16px; font-style: italic; text-align: right; display: block;">Turner, S., Doherty, P., McCluskey, J. et al. Structural determinants of T-cell receptor bias in immunity. Nat Rev Immunol 6, 883–894 (2006). https://doi.org/10.1038/nri1977</span>
+
+
+
+<!--# ---------------------------------------------------------------------- -->
+<!--# SLIDE ---------------------------------------------------------------- -->
+<!--# ---------------------------------------------------------------------- -->
+## Slide 1
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+lsgsd
+
+:::
+
+::: {.column width="50%"}
+
+dfsg
+
+:::
+
+::::
+
+
+
+<!--# ---------------------------------------------------------------------- -->
+<!--# SLIDE ---------------------------------------------------------------- -->
+<!--# ---------------------------------------------------------------------- -->
+## Slide 2
+
+- Ipsum
+
+
+
+<!--# ---------------------------------------------------------------------- -->
+<!--# SLIDE ---------------------------------------------------------------- -->
+<!--# ---------------------------------------------------------------------- -->
+## Slide 3
+
+- Dolor
+
+
+
+<!--# ---------------------------------------------------------------------- -->
+<!--# SLIDE ---------------------------------------------------------------- -->
+<!--# ---------------------------------------------------------------------- -->
+## Slide 4
+
+- Last
