@@ -4,6 +4,14 @@ title: "Research"
 
 For complete and always updated works, incl. preprints, please click [here](https://scholar.google.com/citations?user=UFsfJkAAAAAJ&hl=en)
 
+### 2025
+
+Zhang Y, Castro-Mejía JL, Deng L, Shah SA, Thorsen J, Leal Rodríguez C, **Jessen LE**, Dion MB, Chawes B, Bønnelykke K, Sørensen SJ, Bisgaard H, Moineau S, Petit MA, Stokholm J, Nielsen DS. The influence of early life exposures on the infant gut virome. *Gut Microbes.* 2025 Dec;17(1):2501194. doi: 10.1080/19490976.2025.2501194. Epub 2025 May 21. PMID: 40396485; PMCID: PMC12101590.
+
+Standl M, Budu-Aggrey A, Johnston LJ, Elias MS, Arshad SH, Bager P, Bataille V, Blakeway H, Bønnelykke K, Boomsma D, Brumpton BM, Bustamante Pineda M, Campbell A, Curtin JA, Eliasen A, Fadista JPS, Feenstra B, Gerner T, Medina-Gomez C, Grosche S, Gutzkow KB, Halling AS, Hayward C, Henderson J, Herrera-Luis E, Holloway JW, Hottenga J, O'B Hourihane J, Hu C, Hveem K, Irizar A, Jacquemi B, **Jessen LE**, Kress S, Kurukulaaratchy RJ, Lau S, Llop S, Løset M, Marenholz I, Mason D, McCartney DL, Melbye M, Melén E, Minica C, Murray CS, Nijsten T, Pardo LM, Pasmans S, Pennell CE, Rinnov MR, Santorelli G, Schikowski T, Sheehan D, Simpson A, Söderhäll C, Thomas LF, Thyssen JP, Torrent M, van Beijsterveldt T, Visconti A, Vonk JM, Wang CA, Xu CJ, Ziyab AH; UK Translational Research Network in Dermatology; BIOMAP Consortium; Custovic A, Di Meglio P, Duijts L, Flohr C, Irvine AD, Koppelman GH, Lee YA, Reynolds NJ, Smith C, Langan SM, Paternoster L, Brown SJ. Gene-Environment Interaction Affects Risk of Atopic Eczema: Population and In Vitro Studies. *Allergy.* 2025 Jun 4. doi: 10.1111/all.16605. Epub ahead of print. PMID: 40462597.
+
+**Nielsen MR**, Skougaard M, **Drachmann C**, Stisen ZR, Ditlev SB, **Jessen LE**, Kristensen LE. Single-cell RNA sequencing highlights the influence of innate and adaptive immune response mechanisms in psoriatic arthritis. *Front Immunol.* 2025 Feb 27;15:1490051. doi: 10.3389/fimmu.2024.1490051. PMID: 40084238; PMCID: PMC11904337.
+
 ### 2024
 
 **Slabowska AO**, Pyke C, Hvid H, **Jessen LE**, Baumgart S, Das V. A systematic evaluation of state-of-the-art deconvolution methods in spatial transcriptomics: insights from cardiovascular disease and chronic kidney disease. *Front Bioinform.* 2024 Mar 27;4:1352594. doi: 10.3389/fbinf.2024.1352594. PMID: 38601476; PMCID: PMC11004278.
