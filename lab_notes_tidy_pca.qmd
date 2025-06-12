@@ -1,0 +1,5 @@
+---
+title: "Lab Notes: Tidy PCA"
+---
+
+_Lorem_

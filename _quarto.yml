@@ -5,7 +5,7 @@ project:
 website:
   title: "Immunomicslab"
   twitter-card: true
-  page-footer: "&copy; 2024 Leon Eyrich Jessen"
+  page-footer: "&copy; 2025 Leon Eyrich Jessen"
   navbar:
     alignment: center
     background: light
@@ -15,6 +15,9 @@ website:
       - research.qmd
       - teaching.qmd
     right:
+      - text: "Lab Notes"
+        menu: 
+          - lab_notes_tidy_pca.qmd
       - text: "Workshops"
         menu:
           - workshop_tcrs.qmd
