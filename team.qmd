@@ -5,8 +5,7 @@ title: "Team"
 ## Current
 
 - [Leon Eyrich Jessen](https://www.linkedin.com/in/leonjessen/) Head of Lab, Associate Professor
-- [Amalie Schultz-Nielsen](), Special Course student: "Identification and analysis of T-Cell Receptor Data in Atopic Dermatitis" (February 3, 2025 → May 12, 2025)
-- [Sarah Rosenberg Asmussen](), Special Course student: "T-cell Receptor Driven Discovery of murine TGFβ-specific T-cells" (March 3, 2025 → May 3, 2025)
+- [Jakob Sandfort Ytte](), Bachelor Thesis student: "Graph-Guided PCA Compression for Interpretable Modeling of Childhood Asthma from RNA-seq Data" (September 1st 2025, 2025 → December 7th, 2025)
 
 ## Alumni
 
@@ -20,6 +19,7 @@ title: "Team"
 
 ### Student Projects
 
+- [Amalie Schultz-Nielsen](), Special Course student: "Identification and analysis of T-Cell Receptor Data in Atopic Dermatitis" (February 3, 2025 → May 12, 2025)
 - [Emilie Sophie Ragnhild Sonne](), Bachelor Thesis student: "Comparative Analysis of Methods for Clustering of T-cell Receptors" (September 2, 2024 → December 20, 2024)
 - [Huiyu Xie](), Master Thesis student: "Applications of Probabilistic Modelling for Profiling Human T-cell Repertoires in Cancer" in collaboration with Department of Molecular Medicine (MOMA), AUH (August 26, 2024 → January 26, 2025)
 - [Oscar Lauritz Møberg](), Master Thesis student: "Towards Precision Immuno-profiles using Graph Neural Networks for Modelling single cell RNAseq-data" (August 26, 2024 → January 26, 2025) in collaboration with DTU Compute
