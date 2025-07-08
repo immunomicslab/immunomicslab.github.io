@@ -1,5 +1,70 @@
 ---
-title: "Lab Notes: Tidy PCA"
+title: "Tidy PCA"
 ---
 
 _Lorem_
+
+```{r}
+#| echo: true
+#| message: false
+#| 
+download.file(url = "https://github.com/ramhiser/datamicroarray/raw/refs/heads/master/data/golub.RData",
+              destfile = "data/golub.RData")
+```
+
+```{r}
+load("data/golub.RData")
+```
+
+```{r}
+library("tidyverse")
+library("broom")
+```
+
+```{r}
+golub_tidy <- golub |>
+  pluck("x") |>
+  as_tibble() |>
+  mutate(y = pluck(golub, "y")) |>
+  relocate(y)
+```
+
+```{r}
+pca_data <- golub_tidy |> 
+  select(-y) |> 
+  prcomp(center = TRUE, scale. = TRUE)
+```
+
+```{r}
+scree_data <- pca_data |>
+  tidy(matrix = "eigenvalues") |> 
+  mutate(label = str_c("PC", PC, " (", round(percent*100, 1), "%)"))
+```
+
+```{r}
+scree_data |> 
+  ggplot(aes(x = PC,
+             y = percent)) +
+  geom_col(colour = "black",
+           alpha = 0.5) +
+  geom_hline(yintercept = 0) +
+  theme_minimal()
+```
+
+
+```{r}
+pca_data |>
+  augment(golub_tidy) |> 
+  ggplot(mapping = aes(x = .fittedPC1,
+                       y = .fittedPC2,
+                       colour = y)) +
+  geom_vline(xintercept = 0) +
+  geom_hline(yintercept = 0) +
+  geom_point() +
+  stat_ellipse() +
+  scale_color_manual(values = c("ALL" = "#0072B2", "AML" = "#D55E00")) +
+  theme_minimal() +
+  labs(x = scree_data |> filter(PC == 1) |> pull(label),
+       y = scree_data |> filter(PC == 2) |> pull(label))
+```
+

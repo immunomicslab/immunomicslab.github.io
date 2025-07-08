@@ -6,6 +6,8 @@ title: "Team"
 
 - [Leon Eyrich Jessen](https://www.linkedin.com/in/leonjessen/) Head of Lab, Associate Professor
 - [Jakob Sandfort Ytte](), Bachelor Thesis student: "Graph-Guided PCA Compression for Interpretable Modeling of Childhood Asthma from RNA-seq Data" (September 1st 2025, 2025 → December 7th, 2025)
+- [William Hagedorn-Rasmussen](), Master Thesis student: "Machine Learning-Driven Deconvolution of Superantigen-TCR Interactions in Atopic Dermatitis Using Single-Cell TCRomics" (August 25th 2025 → January 25th 2026) in collaboration with LEO Foundation Skin Immunology Research Center
+- [Amanda Jimenez](), Master Thesis student: "Inferring Functional Gene Networks from Giga-Scale Single-Cell Perturbation Data" (August 25th 2025 → January 25th 2026) in collaboration with Novo Nordisk A/S
 
 ## Alumni
 
@@ -19,7 +21,7 @@ title: "Team"
 
 ### Student Projects
 
-- [Amalie Schultz-Nielsen](), Special Course student: "Identification and analysis of T-Cell Receptor Data in Atopic Dermatitis" (February 3, 2025 → May 12, 2025)
+- [Amalie Schultz-Nielsen](), Special Course student: "Identification and analysis of T-Cell Receptor Data in Atopic Dermatitis" (February 3, 2025 → May 12, 2025) in collaboration with LEO Foundation Skin Immunology Research Center
 - [Emilie Sophie Ragnhild Sonne](), Bachelor Thesis student: "Comparative Analysis of Methods for Clustering of T-cell Receptors" (September 2, 2024 → December 20, 2024)
 - [Huiyu Xie](), Master Thesis student: "Applications of Probabilistic Modelling for Profiling Human T-cell Repertoires in Cancer" in collaboration with Department of Molecular Medicine (MOMA), AUH (August 26, 2024 → January 26, 2025)
 - [Oscar Lauritz Møberg](), Master Thesis student: "Towards Precision Immuno-profiles using Graph Neural Networks for Modelling single cell RNAseq-data" (August 26, 2024 → January 26, 2025) in collaboration with DTU Compute

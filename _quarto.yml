@@ -18,6 +18,7 @@ website:
       - text: "Lab Notes"
         menu: 
           - lab_notes_tidy_pca.qmd
+          - lab_notes_visualise_decision_boundary.qmd
       - text: "Workshops"
         menu:
           - workshop_tcrs.qmd
