@@ -4,13 +4,15 @@ title: "Research"
 
 For complete and always updated works, incl. preprints, please click [here](https://scholar.google.com/citations?user=UFsfJkAAAAAJ&hl=en)
 
+*Immunomicslab members are highlighted in bold*
+
 ### 2025
 
-Petersen MB, Møberg O, Nielsen MR, Zheng W, Duvetorp A, Gerwien J, Jessen LE, Kristensen LE, Skougaard M. POS0233 translational remodelling and amide metabolic dysregulation differentiate mtx responders and nonresponders in psoriatic arthritis–a single cell perspective. *Ann Rheum Dis.* 2025 Jun 1;84:505-506. doi: 10.1016/j.ard.2025.05.620.
+Petersen MB, Møberg O, **Nielsen MR**, Zheng W, Duvetorp A, Gerwien J, **Jessen LE**, Kristensen LE, Skougaard M. POS0233 translational remodelling and amide metabolic dysregulation differentiate mtx responders and nonresponders in psoriatic arthritis–a single cell perspective. *Ann Rheum Dis.* 2025 Jun 1;84:505-506. doi: 10.1016/j.ard.2025.05.620.
 
-Stisen ZR, Nielsen MR, Ditlev SB, **Jessen LE**, Skougaard M. ABS0210 neuroinflammation-associated genes upregulated in PsA patients suffering from severe fatigue–a translational study incorporating single-cell transcriptomics. *Ann Rheum Dis.* 2025 Jun 1;84:1847-1848. doi: 10.1016/j.ard.2025.06.1360.
+Stisen ZR, **Nielsen MR**, Ditlev SB, **Jessen LE**, Skougaard M. ABS0210 neuroinflammation-associated genes upregulated in PsA patients suffering from severe fatigue–a translational study incorporating single-cell transcriptomics. *Ann Rheum Dis.* 2025 Jun 1;84:1847-1848. doi: 10.1016/j.ard.2025.06.1360.
 
-McInnes IB, Cutcutache I, **Jessen LE**, Petersen MB, Nielsen MR, Skougaard M, MacLeod VS, Skelton A, Prickett A, Shaw S. OP0091 markers of il-17 signalling in the blood of patients with Psoriatic arthritis with inadequate response to tumour necrosis factor inhibitors. *Ann Rheum Dis.* 2025 Jun 1;84:79-80. doi: 10.1016/j.ard.2025.05.113.
+McInnes IB, Cutcutache I, **Jessen LE**, Petersen MB, **Nielsen MR**, Skougaard M, MacLeod VS, Skelton A, Prickett A, Shaw S. OP0091 markers of il-17 signalling in the blood of patients with Psoriatic arthritis with inadequate response to tumour necrosis factor inhibitors. *Ann Rheum Dis.* 2025 Jun 1;84:79-80. doi: 10.1016/j.ard.2025.05.113.
 
 Standl M, Budu-Aggrey A, Johnston LJ, Elias MS, Arshad SH, Bager P, Bataille V, Blakeway H, Bønnelykke K, Boomsma D, Brumpton BM, Bustamante Pineda M, Campbell A, Curtin JA, Eliasen A, Fadista JPS, Feenstra B, Gerner T, Medina-Gomez C, Grosche S, Gutzkow KB, Halling AS, Hayward C, Henderson J, Herrera-Luis E, Holloway JW, Hottenga J, O'B Hourihane J, Hu C, Hveem K, Irizar A, Jacquemi B, **Jessen LE**, Kress S, Kurukulaaratchy RJ, Lau S, Llop S, Løset M, Marenholz I, Mason D, McCartney DL, Melbye M, Melén E, Minica C, Murray CS, Nijsten T, Pardo LM, Pasmans S, Pennell CE, Rinnov MR, Santorelli G, Schikowski T, Sheehan D, Simpson A, Söderhäll C, Thomas LF, Thyssen JP, Torrent M, van Beijsterveldt T, Visconti A, Vonk JM, Wang CA, Xu CJ, Ziyab AH; UK Translational Research Network in Dermatology; BIOMAP Consortium; Custovic A, Di Meglio P, Duijts L, Flohr C, Irvine AD, Koppelman GH, Lee YA, Reynolds NJ, Smith C, Langan SM, Paternoster L, Brown SJ. Gene-Environment Interaction Affects Risk of Atopic Eczema: Population and In Vitro Studies. *Allergy.* 2025 Jun 4. doi: 10.1111/all.16605. Epub ahead of print. PMID: 40462597.
 
