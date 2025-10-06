@@ -9,6 +9,7 @@ title: "Team"
 - [Jakob Sandfort Ytte](), Bachelor Thesis student: "Graph-Guided PCA Compression for Interpretable Modeling of Childhood Asthma from RNA-seq Data" (September 1st 2025 → December 7th, 2025)
 - [William Hagedorn-Rasmussen](), Master Thesis student: "Machine Learning-Driven Deconvolution of Superantigen-TCR Interactions in Atopic Dermatitis Using Single-Cell TCRomics" (August 25th 2025 → January 25th 2026) in collaboration with LEO Foundation Skin Immunology Research Center
 - [Amanda Jimenez](), Master Thesis student: "Inferring Functional Gene Networks from Giga-Scale Single-Cell Perturbation Data" (August 25th 2025 → January 25th 2026) in collaboration with Novo Nordisk A/S
+- [Sofie Bruun](), Master Thesis student: "Investigating the Impact of DNA Damage on Ribosomal DNA Variation" (2025-09-03 September 3rd, 2025 → February 18th 2026) in Collaboration with The Danish Cancer Society
 
 ## Alumni
 
