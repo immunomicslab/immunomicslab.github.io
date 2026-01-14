@@ -2,10 +2,13 @@ project:
   type: website
   output-dir: docs
 
+date: today
+date-format: "YYYY"
+
 website:
   title: "Immunomicslab"
   twitter-card: true
-  page-footer: "&copy; 2025 Leon Eyrich Jessen"
+  page-footer: "&copy; 2024-{{< meta date >}} Leon Eyrich Jessen. All rights reserved."
   navbar:
     alignment: center
     background: light
