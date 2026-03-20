@@ -2,3 +2,5 @@
 .Rproj.user
 .DS_Store
 data/
+
+**/*.quarto_ipynb
