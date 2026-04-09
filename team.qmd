@@ -8,8 +8,7 @@ title: "Team"
 - [Sol Escamilla Torres](https://www.linkedin.com/in/sol-escamilla-torres-7199b7235/), Special Course student: "Mapping of Linear Antibody Epitopes Using High-Density Peptide Arrays in Neuroimmunology" (February 2nd 2026 → May 11th 2026) in collaboration with Bispebjerg Hospital Neurological Dept.
 - [Konstantina Gkopi](https://www.linkedin.com/in/konstantina-gkopi-b06a9927a/), Special Course student: "Inference of T-Cell Receptor Repertoires from Asthma-Related Transcriptomic Data" (February 2nd 2026 → May 20th 2026)
 - [Marcel Skumantz](https://www.linkedin.com/in/marcel-skumantz/), Special Course student: "Computational Drug Discovery and AI-Assisted Molecular Design" (February 1st 2026 → June 30th 2026) in Collaboration with DTU BRIGHT and Swaza Life Inc.
-
-
+- [Mei Lin Verghese Law Kung Sam](), Master thesis student: "Towards Identification of Sequence-Level Disease Signatures in TCR Repertoires" (24. aug 2026 → 17. mar 2027)
 
 ## Alumni
 
