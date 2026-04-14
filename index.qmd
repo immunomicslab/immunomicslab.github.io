@@ -2,29 +2,9 @@
 title: "Immunomicslab"
 ---
 
-![](images/leon_eyrich_jessen.jpeg)
+![](images/leon_eyrich_jessen.jpeg){fig-alt="Leon Eyrich Jessen" fig-align="center" width=40%}
 
-_The Computational Autoimmunity Group, led by Associate Professor, Ph.D., M.Sc. (Eng) Leon Eyrich Jessen, is based at the Technical University of Denmark (DTU), just north of Copenhagen._
-
-We are a bioinformatics research group working at the intersection of computational immunology and autoimmune disease research. Our focus lies in developing and applying cutting-edge machine learning and AI methodologies to understand how immune cell populations and their molecular signatures relate to disease phenotypes.
-
-Our research is anchored in three core themes:
-
-1. **Immunocellular Profiling in Autoimmune Disease:**
-We investigate the diversity and specificity of the immune repertoire, particularly T-cell receptors (TCRs), in the context of autoimmune disorders, aiming to understand how immune recognition contributes to the breakdown of central tolerance.
-
-2. **Single-Cell Analysis in Immunology:**
-We leverage single-cell RNA sequencing (scRNA-seq) and related technologies to characterize immune cell states at high resolution, providing detailed insights into disease-associated immune cell composition and dynamics.
-
-3. **Machine Learning, AI and Integrative Modeling:**
-To analyze complex, high-dimensional data, we develop and apply a range of machine learning techniques, including deep learning, generative models, and probabilistic frameworks, to derive interpretable, data-driven insights.
-
-_Our work is highly collaborative, with close ties to clinical partners, and is driven by a shared goal: to advance precision immunology and improve understanding of immune-mediated disease._
-
-If you are interested in collaborating, please find my contact information [here](https://www.dtu.dk/english/person/leon-eyrich-jessen?id=22554&entity=profile)
-
-
-The Computational Autoimmunity Group, led by Associate Professor Leon Eyrich Jessen, is based at the Technical University of Denmark (DTU), just north of Copenhagen.
+_The Computational Autoimmunity Group, led by Associate Professor Leon Eyrich Jessen, is based at the Technical University of Denmark (DTU), just north of Copenhagen._
 
 We are a bioinformatics research group focused on building machine learning models that decode immune receptor sequences into biologically meaningful patterns. Our work centres on uncovering hidden structure in adaptive immune repertoires, with a particular emphasis on T-cell receptor (TCR) sequences and their role in immune-mediated disease.
 
@@ -41,4 +21,4 @@ We design and implement machine learning frameworks, including deep learning, ge
 
 Our work is highly collaborative and closely connected to clinical and translational partners. By combining computational modelling with real-world data, we aim to contribute to a more precise understanding of immune function and dysfunction across disease contexts.
 
-If you are interested in collaborating, please find my contact information [here](https://www.dtu.dk/english/person/leon-eyrich-jessen?id=22554&entity=profile).
+_If you are interested in collaborating, please find my contact information [here](https://www.dtu.dk/english/person/leon-eyrich-jessen?id=22554&entity=profile)._
