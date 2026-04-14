@@ -2,7 +2,7 @@
 title: "Immunomicslab"
 ---
 
-![](images/leon_eyrich_jessen.png)
+![](images/leon_eyrich_jessen.jpeg)
 
 _The Computational Autoimmunity Group, led by Associate Professor, Ph.D., M.Sc. (Eng) Leon Eyrich Jessen, is based at the Technical University of Denmark (DTU), just north of Copenhagen._
 
@@ -22,3 +22,23 @@ To analyze complex, high-dimensional data, we develop and apply a range of machi
 _Our work is highly collaborative, with close ties to clinical partners, and is driven by a shared goal: to advance precision immunology and improve understanding of immune-mediated disease._
 
 If you are interested in collaborating, please find my contact information [here](https://www.dtu.dk/english/person/leon-eyrich-jessen?id=22554&entity=profile)
+
+
+The Computational Autoimmunity Group, led by Associate Professor Leon Eyrich Jessen, is based at the Technical University of Denmark (DTU), just north of Copenhagen.
+
+We are a bioinformatics research group focused on building machine learning models that decode immune receptor sequences into biologically meaningful patterns. Our work centres on uncovering hidden structure in adaptive immune repertoires, with a particular emphasis on T-cell receptor (TCR) sequences and their role in immune-mediated disease.
+
+Our research is organised around three interconnected themes:
+
+1. **Immune Repertoire Modelling and T-cell Specificity**
+We develop computational approaches to identify and characterise patterns in T-cell receptor repertoires, aiming to understand how sequence-level variation encodes immune recognition, specificity, and dysfunction in autoimmune and inflammatory disease.
+
+2. **High-Dimensional Immune Profiling**
+We integrate single-cell and multi-omics data, including single-cell RNA sequencing (scRNA-seq), to contextualise immune receptor patterns within cellular states and population dynamics, enabling a systems-level view of immune behaviour.
+
+3. **Machine Learning for Biological Structure Discovery**
+We design and implement machine learning frameworks, including deep learning, generative models, and probabilistic approaches, to extract interpretable structure from complex immunological data, transforming high-dimensional measurements into usable biological representations.
+
+Our work is highly collaborative and closely connected to clinical and translational partners. By combining computational modelling with real-world data, we aim to contribute to a more precise understanding of immune function and dysfunction across disease contexts.
+
+If you are interested in collaborating, please find my contact information [here](https://www.dtu.dk/english/person/leon-eyrich-jessen?id=22554&entity=profile).
