@@ -5,10 +5,9 @@ title: "Team"
 ## Current
 
 - [Leon Eyrich Jessen](https://www.linkedin.com/in/leonjessen/), Head of Lab, Associate Professor (tenured), PhD., MSc. (Eng)
-- [Sol Escamilla Torres](https://www.linkedin.com/in/sol-escamilla-torres-7199b7235/), Special Course student: "Mapping of Linear Antibody Epitopes Using High-Density Peptide Arrays in Neuroimmunology" (February 2nd 2026 → May 11th 2026) in collaboration with Bispebjerg Hospital Neurological Dept.
-- [Konstantina Gkopi](https://www.linkedin.com/in/konstantina-gkopi-b06a9927a/), Special Course student: "Inference of T-Cell Receptor Repertoires from Asthma-Related Transcriptomic Data" (February 2nd 2026 → May 20th 2026)
+- [Mei Lin Verghese Law Kung Sam](), Master thesis student: "Towards Identification of Sequence-Level Disease Signatures in TCR Repertoires" (August 24th 2026 → March 17th 2027)
+- [Konstantina Gkopi](https://www.linkedin.com/in/konstantina-gkopi-b06a9927a/), Master thesis student: "Towards Identification of Sequence-Level Disease Signatures in TCR Repertoires" (August 31st 2026 → March 2nd 2027)
 - [Marcel Skumantz](https://www.linkedin.com/in/marcel-skumantz/), Special Course student: "Computational Drug Discovery and AI-Assisted Molecular Design" (February 1st 2026 → June 30th 2026) in Collaboration with DTU BRIGHT and Swaza Life Inc.
-- [Mei Lin Verghese Law Kung Sam](), Master thesis student: "Towards Identification of Sequence-Level Disease Signatures in TCR Repertoires" (24. aug 2026 → 17. mar 2027)
 
 ## Alumni
 
@@ -23,6 +22,8 @@ title: "Team"
 
 ### Student Projects
 
+- [Sol Escamilla Torres](https://www.linkedin.com/in/sol-escamilla-torres-7199b7235/), Special Course student: "Mapping of Linear Antibody Epitopes Using High-Density Peptide Arrays in Neuroimmunology" (February 2nd 2026 → May 11th 2026) in collaboration with Bispebjerg Hospital Neurological Dept.
+- [Konstantina Gkopi](https://www.linkedin.com/in/konstantina-gkopi-b06a9927a/), Special Course student: "Inference of T-Cell Receptor Repertoires from Asthma-Related Transcriptomic Data" (February 2nd 2026 → May 20th 2026)
 - [Golnaz Rezaee](https://www.linkedin.com/in/golnaz-rezaee-708a09355/), Erasmus+ Research Intern: "Towards ML-Driven Explainable Mapping of T-Cell Receptor Repertoire Signatures in Autoimmune Disease Phenotypes" (October 1st 2025 → March 1st, 2026)
 - [William Hagedorn-Rasmussen](https://www.linkedin.com/in/william-hagedorn-rasmussen-51167a264/), Master Thesis student: "Machine Learning-Driven Deconvolution of Superantigen-TCR Interactions in Atopic Dermatitis Using Single-Cell TCRomics" (August 25th 2025 → January 25th 2026) in collaboration with LEO Foundation Skin Immunology Research Center
 - [Amanda Jimenez](https://www.linkedin.com/in/amanda-jimenez-43b61224b/), Master Thesis student: "Inferring Functional Gene Networks from Giga-Scale Single-Cell Perturbation Data" (August 25th 2025 → January 25th 2026) in collaboration with Novo Nordisk A/S

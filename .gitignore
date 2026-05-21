@@ -4,3 +4,4 @@
 data/
 
 **/*.quarto_ipynb
+.positai
