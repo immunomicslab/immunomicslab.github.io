@@ -5,7 +5,7 @@ title: "Team"
 ## Current
 
 - [Leon Eyrich Jessen](https://www.linkedin.com/in/leonjessen/), Head of Lab, Associate Professor (tenured), PhD., MSc. (Eng)
-- [Mei Lin Verghese Law Kung Sam](), Master thesis student: "Towards Identification of Sequence-Level Disease Signatures in TCR Repertoires" (August 24th 2026 → March 17th 2027)
+- [Mei Lin Verghese Law Kung Sam](https://www.linkedin.com/in/mei-lin-verghese-law-kung-sam-575b05411/), Master thesis student: "Towards Identification of Sequence-Level Disease Signatures in TCR Repertoires" (August 24th 2026 → March 17th 2027)
 - [Konstantina Gkopi](https://www.linkedin.com/in/konstantina-gkopi-b06a9927a/), Master thesis student: "Towards Identification of Sequence-Level Disease Signatures in TCR Repertoires" (August 31st 2026 → March 2nd 2027)
 - [Marcel Skumantz](https://www.linkedin.com/in/marcel-skumantz/), Special Course student: "Computational Drug Discovery and AI-Assisted Molecular Design" (February 1st 2026 → June 30th 2026) in Collaboration with DTU BRIGHT and Swaza Life Inc.
 
