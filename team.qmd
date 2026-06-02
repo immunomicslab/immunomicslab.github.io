@@ -9,12 +9,12 @@ title: "Team"
 - [Konstantina Gkopi](https://www.linkedin.com/in/konstantina-gkopi-b06a9927a/), Master thesis student: "Towards Identification of Sequence-Level Disease Signatures in TCR Repertoires" (August 31st 2026 → March 2nd 2027)
 - [Marcel Skumantz](https://www.linkedin.com/in/marcel-skumantz/), Special Course student: "Computational Drug Discovery and AI-Assisted Molecular Design" (February 1st 2026 → June 30th 2026) in Collaboration with DTU BRIGHT and Swaza Life Inc.
 - [Nova Forbes](https://www.linkedin.com/in/novaforbes/), Special Course student: "TCR Repertoire Features as Predictors of Anti-PD-1 Immunotherapy Response in Melanoma" (June 8th 2026 → June 26th 2026)
+- [Sol Escamilla Torres](https://www.linkedin.com/in/sol-escamilla-torres-7199b7235/) Research Assistant: "Unravelling immunological mechanisms of unexplained graft rejection by in silico HLA epitope matching in solid organ transplantation" (April 1st 2026 → June 30th 2026)
 
 ## Alumni
 
 ### Funded Projects
 
-- [Sol Escamilla Torres](https://www.linkedin.com/in/sol-escamilla-torres-7199b7235/) Research Assistant: "Unravelling immunological mechanisms of unexplained graft rejection by in silico HLA epitope matching in solid organ transplantation" (April 1st 2026 → June 30th 2026)
 - [Melanie Randahl Nielsen](https://www.linkedin.com/in/melanie-nielsen-97767a169/) Research Assistant: "Integrative Single-Cell Analysis for Exploring Autoimmune Disease Mechanisms" (09/2023 → 09/2024)
 - [Clara Drachmann](https://www.linkedin.com/in/clara-drachmann-5739a7107/) PhD student: "Integrative Single-Cell Analysis for Exploring Autoimmune Disease Mechanisms" (03/2022 → 07/2023)
 - [Alessandro Montemurro](https://www.linkedin.com/in/alessandro-montemurro-a41765157/) PhD student: "Improved Immunoinformatic Methods for Rationale T Cell Epitope Discovery" (10/2019 → 01/2023)
